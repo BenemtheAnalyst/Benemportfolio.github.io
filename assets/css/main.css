@@ -3465,10 +3465,10 @@ input, select, textarea {
 		-ms-transition: background-color 0.5s ease;
 		transition: background-color 0.5s ease;
 		background: #14272b;
-		height: 10em;
+		height: 6em;
 		left: 0;
 		line-height: 3em;
-		position: fixed;
+		position: absolute;
 		top: 3;
 		width: 100%;
 		z-index: 10000;
