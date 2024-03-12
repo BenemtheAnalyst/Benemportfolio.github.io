@@ -3534,12 +3534,12 @@ input, select, textarea {
 
 					#header nav > ul > li > a {
 						border: 0;
-						color: #f4d127ee;
+						color: #ffffffee;
 						display: block;
 						font-size: 0.9em;
-						letter-spacing: 0.225em;
+						letter-spacing: 0.1em;
 						padding: 0 1.5em;
-						text-transform: uppercase;
+						text-transform: none;
 					}
 
 						#header nav > ul > li > a.menuToggle {
